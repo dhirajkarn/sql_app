@@ -28,7 +28,7 @@ test:
   database: sql_app_test
   pool: 5
   username: root
-  password:
+  password: manide
   host: localhost
 
 production:
@@ -38,5 +38,5 @@ production:
   database: sql_app_production
   pool: 5
   username: root
-  password:
+  password: manide
   host: localhost
